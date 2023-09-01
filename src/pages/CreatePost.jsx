@@ -106,7 +106,7 @@ const CreatePost = () => {
             handleSurpriseMe={handleSurpriseMe}
           />
 
-          <div className="relative bg-[#250434] border border-[#15efaa] text-gray-900 text-sm rounded-lg focus:ring-[#15efaa] focus:border-[#15efaa] w-64 p-3 h-64 flex justify-center items-center">
+          <div className="relative bg-[#250434] border border-[#15efaa] text-gray-900 text-sm rounded-lg focus:ring-[#15efaa] focus:border-[#15efaa] w-128 p-3 h-128 flex justify-center items-center">
             {form.photo ? (
               <img
                 src={form.photo}

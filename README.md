@@ -1,7 +1,5 @@
 # AI Image Generation Site
 
-You can view a live preview of this project [HERE](https://ai.amissouri.com)
-
 ## Features
 
 - Community page of user generated images

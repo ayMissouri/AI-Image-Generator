@@ -15,7 +15,7 @@
 ```text
 clone this repo
 npm install
-change link of fetch requests to your own backend (optional)
+change link of fetch requests to your own backend
 npm run dev
 ```
 
